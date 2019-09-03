@@ -1,0 +1,2 @@
+pyinstaller -F -p C:\Python36\Lib\site-packages xg.py
+ANSI

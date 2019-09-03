@@ -1,0 +1,1 @@
+py -3 setup_xg.py bdist_msi
